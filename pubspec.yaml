@@ -1,7 +1,7 @@
 name: get_mp4_duration
 description: A new Flutter package project for get the duration info from mp4 video file
 version: 0.0.1
-homepage:
+homepage: https://github.com/zdong22/get_mp4_duration
 
 environment:
   sdk: '>=2.19.2 <3.0.0'
